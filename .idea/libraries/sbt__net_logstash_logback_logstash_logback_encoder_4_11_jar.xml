@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="sbt: net.logstash.logback:logstash-logback-encoder:4.11:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/net.logstash.logback/logstash-logback-encoder/jars/logstash-logback-encoder-4.11.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/net.logstash.logback/logstash-logback-encoder/srcs/logstash-logback-encoder-4.11-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
